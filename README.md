@@ -1,2 +1,2 @@
 # Calculator
-small project 
+a python program that lets the user to compute.
